@@ -16,6 +16,8 @@ yarn Install
 ```bash
 # if using using ios  cd ios
 pod Install
+```
+
 
 ## Step 2: Start the Metro Server
 
